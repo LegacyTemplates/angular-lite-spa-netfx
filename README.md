@@ -8,5 +8,5 @@ ASP.NET v4.6.1 .NET Framework Angular4 and Material Design Lite Webpack App Temp
 
     $ dotnet tool install --global x
 
-    $ x new angular-lite-spa-netfx ProjectName
+    $ x new LegacyTemplates/angular-lite-spa-netfx ProjectName
 
